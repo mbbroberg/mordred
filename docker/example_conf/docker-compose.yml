@@ -1,5 +1,5 @@
 mordred:
-  image: bitergia/mordred:latest
+  image: bitergia/mordred:catwoman
   volumes:
     - .:/home/bitergia/conf
     - .:/home/bitergia/logs
